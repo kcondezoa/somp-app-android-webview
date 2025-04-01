@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Págalo</string>
+    <string name="loading_prevented">Error al cargar, %s</string>
+</resources>
